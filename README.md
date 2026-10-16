@@ -19,6 +19,7 @@
 - macOS 13 Ventura или новее (проверено на macOS 15).
 - Принтер, добавленный в «Системные настройки → Принтеры и сканеры».
 - Для сборки: Command Line Tools (`xcode-select --install`).
+- Если Xcode будет требовать лицензию, выполните команду  sudo xcodebuild -license accept 
 
 ## Установка из исходников
 
